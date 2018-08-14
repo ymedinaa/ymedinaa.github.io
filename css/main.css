@@ -1,0 +1,44 @@
+body 
+{
+magin: 60px auto;
+width: 71%;
+}
+nav ul, footer ul {
+    font-family:'Helvética', 'Arial', 'Sans-Serif';
+    padding:0px;
+    list-style:none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+  display: inline;
+  margin-right:20px;
+}
+
+  a {
+    text-decoration: none;
+    color:  #ffbbff;
+    }
+ a: hover {
+      text-decoration: underline;
+      }
+      
+      h1{
+      font-size:3em;
+      font-family: 'Helvética', 'Arial', 'Sans-Serif';
+      }
+      P {
+      font-size:1.5em;
+      line-height:1.4em;
+      color:#333;
+      }
+      footer {
+      border top: 1px solid #d5d5d5;
+      font-size: .8em;
+      }
+      ul.possts {
+          margin: 20px auto 40x;
+          font-size: 1.5em;
+          }
+          ul.posts {
+            list-style: none;
+            }
